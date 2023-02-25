@@ -3,9 +3,9 @@ package org.example;
 public class Animal {
 
     //Atributos
-    Integer edad;
+    protected Integer edad;
     String nombre;
-    String especie;
+    private String especie;
     Double peso;
     Double estatura;
     String colorPredominante;
